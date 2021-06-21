@@ -1,4 +1,4 @@
-package test_learning
+package testlearning
 
 import (
 	"io/ioutil"
